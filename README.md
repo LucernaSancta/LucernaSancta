@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucernaSancta
 - 👀 I’m interested in programming and photograpy
-- 🌱 I’m currently working on [Advanced snake 🐍](https://github.com/LucernaSancta/advanced_snake)
+- 🌱 I’m currently working on [Advanced snake 🐍](https://github.com/LucernaSancta/advanced-snake)
 - 🖼️ Profile pic made by [PixelPortal](https://in.pinterest.com/8pixelportal/) on Pinterest
 
 <!---
